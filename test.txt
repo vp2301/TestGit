@@ -1,1 +1,2 @@
 this is my first text file on github.
+this is my first step in learning github.
